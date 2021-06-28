@@ -75,3 +75,11 @@ If we pass state down from component A to component B and then need to update
 the state based on something that happened in component B, we can do so via
 callbacks: Component A will not only pass state to Component B, but it will
 also pass a callback function that will fire whenever the state should be updated.
+
+Video Game App:
+---------------
+1. Main App component
+2. Header Component
+3. Create Player Component
+4. Error Component
+5. Scoreboard Component
